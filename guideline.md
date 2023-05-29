@@ -1,4 +1,4 @@
-* Project setup:
+<!-- * Project setup:
 
 1. npm init
 2. typescript setup
@@ -10,4 +10,4 @@
     b. find out directory and give a value name of /dist
 7. then install dotenv
 8. create .gitIgnore file and type: /node_modules and dotenv
-9. 
+9.  -->
