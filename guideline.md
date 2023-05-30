@@ -6,8 +6,8 @@
 4. mongoose setup
 5. type in git bash: tsc --init
 6. go to tsconfig.json file
-    a. find root directory and give a value name of /src 
-    b. find out directory and give a value name of /dist
+    a. find out rootDir and give a value name of /src 
+    b. find out outDir and give a value name of /dist
 7. then install dotenv
 8. create .gitIgnore file and type: /node_modules and dotenv 
 9. create server.ts and app.ts in main directory.
