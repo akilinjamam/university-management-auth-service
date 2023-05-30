@@ -16,9 +16,10 @@
 12. apply code from mongoose to server.ts file
 13. install cors and apply code of cors
 14. now go to mongoDB atlas. create new claster. and connect with your server
-15. setup eslint
-16. setup prettier
-17. setup eslint-config-prettier
-18. setup huskey
-19. setup lint-staged
+15. go to logrocket website and setup eslint, prettier, eslint-config-prettier
+16. setup eslint
+17. setup prettier
+18. setup eslint-config-prettier
+19. setup huskey
+20. setup lint-staged
 
