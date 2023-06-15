@@ -1,0 +1,340 @@
+Fri Jun 09 2023 = 3 : 38 : 19  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]
+Fri Jun 09 2023 = 3 : 38 : 41  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]
+Fri Jun 09 2023 = 3 : 41 : 15  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]
+Fri Jun 09 2023 = 3 : 45 : 53  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]
+Fri Jun 09 2023 = 3 : 47 : 16  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]
+Fri Jun 09 2023 = 3 : 47 : 57  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]
+Fri Jun 09 2023 = 3 : 47 : 59  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]
+Fri Jun 09 2023 = 3 : 48 : 2  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]
+Fri Jun 09 2023 = 3 : 48 : 19  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]
+Fri Jun 09 2023 = 3 : 48 : 42  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]
+Fri Jun 09 2023 = 3 : 53 : 21  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]
+Fri Jun 09 2023 = 3 : 54 : 19  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]
+Fri Jun 09 2023 = 3 : 55 : 13  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]
+Fri Jun 09 2023 = 3 : 56 : 9  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]
+Fri Jun 09 2023 = 3 : 56 : 54  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]
+Fri Jun 09 2023 = 3 : 58 : 6  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]
+Fri Jun 09 2023 = 3 : 59 : 25  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]

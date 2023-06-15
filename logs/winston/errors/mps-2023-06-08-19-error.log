@@ -1,0 +1,24 @@
+Thu Jun 08 2023 = 19 : 13 : 10  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Thu Jun 08 2023 = 19 : 13 : 58  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]

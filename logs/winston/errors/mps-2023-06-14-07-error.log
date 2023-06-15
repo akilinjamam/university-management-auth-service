@@ -1,0 +1,4 @@
+Wed Jun 14 2023 = 7 : 9 : 8  [my professional sever] error: GlobalErrorHandler~: Cast to ObjectId failed for value "64878c5bd4d4cc1fa09b" (type string) at path "_id" for model "AcademicSemester"
+Wed Jun 14 2023 = 7 : 9 : 23  [my professional sever] error: GlobalErrorHandler~: Cast to ObjectId failed for value "64878c5bd4d4cc1fa09b" (type string) at path "_id" for model "AcademicSemester"
+Wed Jun 14 2023 = 7 : 9 : 25  [my professional sever] error: GlobalErrorHandler~: Cast to ObjectId failed for value "64878c5bd4d4cc1fa09b" (type string) at path "_id" for model "AcademicSemester"
+Wed Jun 14 2023 = 7 : 11 : 2  [my professional sever] error: GlobalErrorHandler~: Cast to ObjectId failed for value "64878c5bd4d4cc1fa09b" (type string) at path "_id" for model "AcademicSemester"

@@ -1,0 +1,18 @@
+{
+  message: 'development',
+  level: 'info',
+  label: 'my professional sever',
+  timestamp: '2023-06-05T14:31:25.143Z'
+}
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'my professional sever',
+  timestamp: '2023-06-05T14:31:26.755Z'
+}
+{
+  message: 'Application app listening on port 5000',
+  level: 'info',
+  label: 'my professional sever',
+  timestamp: '2023-06-05T14:31:26.772Z'
+}

@@ -1,0 +1,127 @@
+Fri Jun 09 2023 = 4 : 1 : 45  [my professional sever] error: failed to load data Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.tlq7llc.mongodb.net
+Fri Jun 09 2023 = 4 : 4 : 2  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]
+Fri Jun 09 2023 = 4 : 4 : 39  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]
+Fri Jun 09 2023 = 4 : 6 : 47  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "startMonth"
+    ],
+    "message": "startmonth is required"
+  },
+  {
+    "expected": "'January' | 'February' | 'March' | 'April' | 'May' | 'June' | 'July' | 'August' | 'September' | 'October' | 'November' | 'December'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "endMonth"
+    ],
+    "message": "endmonth is required"
+  }
+]
+Fri Jun 09 2023 = 4 : 14 : 44  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "received": "fall",
+    "code": "invalid_enum_value",
+    "options": [
+      "Autumn",
+      "Summer",
+      "Fall"
+    ],
+    "path": [
+      "body",
+      "title"
+    ],
+    "message": "Invalid enum value. Expected 'Autumn' | 'Summer' | 'Fall', received 'fall'"
+  }
+]
+Fri Jun 09 2023 = 4 : 16 : 50  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "received": "fall",
+    "code": "invalid_enum_value",
+    "options": [
+      "Autumn",
+      "Summer",
+      "Fall"
+    ],
+    "path": [
+      "body",
+      "title"
+    ],
+    "message": "Invalid enum value. Expected 'Autumn' | 'Summer' | 'Fall', received 'fall'"
+  }
+]
+Fri Jun 09 2023 = 4 : 17 : 47  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "received": "fall",
+    "code": "invalid_enum_value",
+    "options": [
+      "Autumn",
+      "Summer",
+      "Fall"
+    ],
+    "path": [
+      "body",
+      "title"
+    ],
+    "message": "Invalid enum value. Expected 'Autumn' | 'Summer' | 'Fall', received 'fall'"
+  }
+]
+Fri Jun 09 2023 = 4 : 18 : 46  [my professional sever] error: GlobalErrorHandler~: Unexpected number in JSON at position 49
+Fri Jun 09 2023 = 4 : 19 : 10  [my professional sever] error: GlobalErrorHandler~: Unexpected number in JSON at position 49
+Fri Jun 09 2023 = 4 : 20 : 8  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "received": "05",
+    "code": "invalid_enum_value",
+    "options": [
+      "01",
+      "02",
+      "03"
+    ],
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Invalid enum value. Expected '01' | '02' | '03', received '05'"
+  }
+]

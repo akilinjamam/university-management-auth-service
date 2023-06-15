@@ -1,0 +1,96 @@
+Thu Jun 08 2023 = 18 : 27 : 26  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Thu Jun 08 2023 = 18 : 27 : 43  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Thu Jun 08 2023 = 18 : 46 : 35  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Thu Jun 08 2023 = 18 : 47 : 18  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Thu Jun 08 2023 = 18 : 48 : 24  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Thu Jun 08 2023 = 18 : 49 : 6  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Thu Jun 08 2023 = 18 : 51 : 3  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Thu Jun 08 2023 = 18 : 51 : 53  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]

@@ -1,0 +1,79 @@
+Thu Jun 15 2023 = 0 : 28 : 55  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'01' | '02' | '03'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Required"
+  }
+]
+Thu Jun 15 2023 = 0 : 30 : 49  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'01' | '02' | '03'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Required"
+  }
+]
+Thu Jun 15 2023 = 0 : 34 : 36  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'01' | '02' | '03'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Required"
+  }
+]
+Thu Jun 15 2023 = 0 : 35 : 22  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'01' | '02' | '03'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Required"
+  }
+]
+Thu Jun 15 2023 = 0 : 36 : 22  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'01' | '02' | '03'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Required"
+  }
+]
+Thu Jun 15 2023 = 0 : 51 : 31  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'01' | '02' | '03'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Required"
+  }
+]
+Thu Jun 15 2023 = 0 : 54 : 32  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "code": "custom",
+    "message": "Either both title and code should be provided or neither",
+    "path": []
+  }
+]

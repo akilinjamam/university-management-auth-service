@@ -1,0 +1,36 @@
+Wed Jun 14 2023 = 11 : 1 : 40  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'01' | '02' | '03'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Required"
+  }
+]
+Wed Jun 14 2023 = 11 : 11 : 29  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'01' | '02' | '03'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Required"
+  }
+]
+Wed Jun 14 2023 = 11 : 16 : 8  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "expected": "'01' | '02' | '03'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "body",
+      "code"
+    ],
+    "message": "Required"
+  }
+]
