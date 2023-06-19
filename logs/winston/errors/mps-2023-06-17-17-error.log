@@ -1,0 +1,128 @@
+Sat Jun 17 2023 = 17 : 0 : 12  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "student",
+      "contactNo"
+    ],
+    "message": "Expected number, received string"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "student",
+      "emergencyContactNo"
+    ],
+    "message": "Expected number, received string"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "student",
+      "guardian",
+      "fatherContactNo"
+    ],
+    "message": "Expected number, received string"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "student",
+      "guardian",
+      "motherContactNo"
+    ],
+    "message": "Expected number, received string"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "student",
+      "localGuardian",
+      "contactNo"
+    ],
+    "message": "Expected number, received string"
+  }
+]
+Sat Jun 17 2023 = 17 : 1 : 11  [my professional sever] error: GlobalErrorHandler~: Unexpected number in JSON at position 346
+Sat Jun 17 2023 = 17 : 2 : 40  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "student",
+      "contactNo"
+    ],
+    "message": "Expected number, received string"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "student",
+      "emergencyContactNo"
+    ],
+    "message": "Expected number, received string"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "student",
+      "guardian",
+      "fatherContactNo"
+    ],
+    "message": "Expected number, received string"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "student",
+      "guardian",
+      "motherContactNo"
+    ],
+    "message": "Expected number, received string"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "student",
+      "localGuardian",
+      "contactNo"
+    ],
+    "message": "Expected number, received string"
+  }
+]
+Sat Jun 17 2023 = 17 : 3 : 15  [my professional sever] error: GlobalErrorHandler~: Unexpected number in JSON at position 391
+Sat Jun 17 2023 = 17 : 19 : 28  [my professional sever] error: GlobalErrorHandler~: Unexpected number in JSON at position 391
+Sat Jun 17 2023 = 17 : 20 : 21  [my professional sever] error: GlobalErrorHandler~: user_service_1.userService.createUser is not a function
+Sat Jun 17 2023 = 17 : 29 : 7  [my professional sever] error: GlobalErrorHandler~: user_service_1.userService.createUser is not a function
+Sat Jun 17 2023 = 17 : 31 : 0  [my professional sever] error: GlobalErrorHandler~: Student validation failed: profileImage: Path `profileImage` is required., emergencyContactNumber: Path `emergencyContactNumber` is required.
+Sat Jun 17 2023 = 17 : 36 : 4  [my professional sever] error: GlobalErrorHandler~: Cannot populate path `student.AcademicSemester` because it is not in your schema. Set the `strictPopulate` option to false to override.
+Sat Jun 17 2023 = 17 : 37 : 28  [my professional sever] error: GlobalErrorHandler~: Cannot populate path `Student` because it is not in your schema. Set the `strictPopulate` option to false to override.

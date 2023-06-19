@@ -5,18 +5,20 @@ import sendRespone from '../../../shared/sendResponse';
 import httpStatus from 'http-status';
 // import { z } from 'zod'
 
-const createUserController = catchAsync(async (req: Request, res: Response) => {
-  const { user } = req.body;
-  const result = await userService.createUser(user);
+const createStudentController = catchAsync(
+  async (req: Request, res: Response) => {
+    const { student, ...userData } = req.body;
+    const result = await userService.createStudent(student, userData);
 
-  sendRespone(res, {
-    statusCode: httpStatus.OK,
-    success: true,
-    message: 'user created successfully',
-    data: result,
-  });
-});
+    sendRespone(res, {
+      statusCode: httpStatus.OK,
+      success: true,
+      message: 'user created successfully',
+      data: result,
+    });
+  }
+);
 
 export const userController = {
-  createUserController,
+  createStudentController,
 };

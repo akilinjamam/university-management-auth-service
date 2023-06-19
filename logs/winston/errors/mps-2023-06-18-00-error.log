@@ -1,0 +1,23 @@
+Sun Jun 18 2023 = 0 : 2 : 58  [my professional sever] error: GlobalErrorHandler~: [
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "undefined",
+    "path": [
+      "body",
+      "guardian"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "undefined",
+    "path": [
+      "body",
+      "localGuardian"
+    ],
+    "message": "Required"
+  }
+]
+Sun Jun 18 2023 = 0 : 5 : 16  [my professional sever] error: GlobalErrorHandler~: Cast to ObjectId failed for value "220100001" (type string) at path "_id" for model "Student"
